@@ -1,0 +1,11 @@
+/Figs/
+/Data/
+/renewal_eq/
+/Python Scripts/
+/data/
+/figures/
+
+# macOS metadata
+.DS_Store
+
+/Code_main/*.so
